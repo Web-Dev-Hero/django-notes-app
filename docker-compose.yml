@@ -3,4 +3,4 @@ services :
   web :
      image : trainwithshubham/notes-app-jenkins:latest
      ports :
-         - "8001:8001"
+         - "8000:8000"
